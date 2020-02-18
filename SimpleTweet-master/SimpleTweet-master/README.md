@@ -2,7 +2,7 @@
 
 **SimpleTweet** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -58,7 +58,7 @@ Had some issues with adding the Twitter assets to the action bar and editing the
 
 ## License
 
-    Copyright 2020 Frederic Triplett, Jr.
+    Copyright 2020 Sara Darensbourg.
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -78,7 +78,7 @@ Had some issues with adding the Twitter assets to the action bar and editing the
 
 **Simple Tweet** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: **5** hours spent in total
+Time spent: **9** hours spent in total
 
 ## User Stories
 
@@ -127,7 +127,7 @@ Currently exploring how to make the app feel more Twitter branded. Using the col
 
 ## License
 
-    Copyright 2020 Frederic Triplett, Jr.
+    Copyright 2020 Sara Darensbourg.
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
